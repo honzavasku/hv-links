@@ -1,0 +1,13 @@
+--- LOKACE K VYHLEDÁNÍ: LINKBIO_DEPLOY ---
+🎨 BRAND BARVY (Použij na obálku a UI): Hlavní #2C3E50, Akcent #D4AC0D
+
+1. The Hidden Convent Garden (Jardim do Convento do Carmo)
+2. The Fisherman's Chapel (Capela de Santo Amaro)
+3. The Ginjinha Alley of Alfama (Beco do Cardosa)
+4. The Overlooked Roman Theater (Museu do Teatro Romano)
+5. The Printer's Courtyard Café (Pátio da Tipografia)
+6. The Forgotten Miradouro (Miradouro das Portas do Sol Secreto)
+7. The Tile Restoration Workshop (Ateliê de Recuperação de Azulejos)
+8. The Speakeasy Behind the Barbershop (O Bar Escondido)
+9. The Riverside Ferry Cantina (Cantina do Cacilheiro)
+10. The Astronomer's Rooftop (Observatório Astronómico de Lisboa)
