@@ -1,13 +1,13 @@
 --- LOKACE K VYHLEDÁNÍ: LINKBIO_DEPLOY ---
 🎨 BRAND BARVY (Použij na obálku a UI): Hlavní #2C5F7C, Akcent #D4A574
 
-1. The Hanging Convent Garden (Jardim do Convento das Mercês)
-2. The Ceramic Tile Archive (Fábrica Sant'Anna Showroom)
-3. The Fisherman's Chapel (Capela de Santo André)
-4. The Underground Roman Galleries (Galerias Romanas da Rua da Prata)
-5. The Poet's Bookshop Cellar (Livraria Sá da Costa Cave)
-6. The Silent Miradouro (Miradouro da Rua Marechal Saldanha)
-7. The Ginjinha Speakeasy (Ginjinha Sem Rival Annex)
-8. The Abandoned Elevator Garden (Elevador do Lavra Rooftop Access)
-9. The Fado House Basement (Casa de Fado dos Ferreiras)
-10. The Botanical Greenhouse Ruins (Estufa Fria's Forgotten Wing)
+1. Jardim do Torel (Miradouro do Torel)
+2. Cervejaria Ramiro's Secret Sister (Marisqueira Uma)
+3. Palácio Chiado's Forgotten Library (Biblioteca Secreta)
+4. Chapel of Bones' Lesser Cousin (Capela de São João Baptista)
+5. Cool Jazz Cellar (Speakeasy do Bairro)
+6. Feira da Ladra's Hidden Corner (O Canto dos Antiquários)
+7. Miradouro da Graça's Quiet Twin (Jardim do Torel de Cima)
+8. Time Out Market's Forgotten Predecessor (Mercado de Arroios)
+9. Jardim Botânico's Secret Greenhouse (A Estufa Esquecida)
+10. Ginjinha Sem Rival's Older Rival (A Ginjinha do Rossio Antigo)

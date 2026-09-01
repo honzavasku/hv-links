@@ -6,153 +6,153 @@
     "guides": [
         {
             "id": 1,
-            "title": "The Hanging Convent Garden",
-            "subtitle": "Jardim do Convento das Mercês",
+            "title": "Jardim do Torel",
+            "subtitle": "Miradouro do Torel",
             "tags": [
-                "Secret Garden",
-                "Panoramic View",
-                "Free Entry",
-                "Sunset Spot"
+                "Hidden Viewpoint",
+                "Local Escape",
+                "Peaceful",
+                "Free Entry"
             ],
-            "what_you_will_find": "Tucked behind a crumbling convent wall in Bairro Alto, this <b>terraced garden</b> offers one of the most underrated panoramic views of Lisbon's rooftops and the Tagus River. Unlike the crowded miradouros, this spot remains blissfully <b>tourist-free</b>, accessible through an unassuming gate that most guidebooks miss entirely.",
-            "the_vibe": "A tranquil, slightly overgrown oasis where local students read poetry and elderly residents walk their dogs, offering a <b>quiet escape</b> from the city's buzz.",
-            "pro_tip": "Visit right before sunset on a weekday; bring your own wine as there's no vendor, and the golden light hitting the castle is unforgettable.",
-            "location": "Jardim do Convento das Mercês, 1200-135 Lisboa, Portugal"
+            "what_you_will_find": "Tucked away above the bustling Avenida da Liberdade, this <b>terraced garden</b> offers a small lake, fountain, and panoramic views of the city that most tourists never discover. Wooden decking areas invite you to sit and watch the sunset over rooftops while locals jog past on their evening routine.",
+            "the_vibe": "A <b>quiet sanctuary</b> where Lisbon's residents escape the crowds, filled with birdsong and the distant hum of trams below.",
+            "pro_tip": "Visit right before sunset on a weekday and bring a bottle of local Vinho Verde—there's rarely anyone else around to share the view with.",
+            "location": "Rua Júlio de Andrade, 1150-329 Lisboa, Portugal"
         },
         {
             "id": 2,
-            "title": "The Ceramic Tile Archive",
-            "subtitle": "Fábrica Sant'Anna Showroom",
+            "title": "Cervejaria Ramiro's Secret Sister",
+            "subtitle": "Marisqueira Uma",
             "tags": [
-                "Artisan Craft",
-                "Hidden Workshop",
-                "Local History",
-                "Shopping"
+                "Seafood",
+                "Local Institution",
+                "No Tourists",
+                "Cash Only"
             ],
-            "what_you_will_find": "Since 1741, this working <b>tile factory</b> has hand-painted azulejos using techniques unchanged for centuries. Visitors can wander through dusty back rooms filled with historic molds and watch artisans paint intricate patterns that once decorated Lisbon's grandest palaces.",
-            "the_vibe": "Time feels suspended here; the smell of clay and paint mixes with the rhythmic sound of brushes, creating an <b>authentic workshop atmosphere</b> rarely found in modern retail.",
-            "pro_tip": "Ask the staff to show you the 18th-century pattern books in the back—they're not on display but staff will happily share them if you show genuine interest.",
-            "location": "Rua do Alecrim 95, 1200-018 Lisboa, Portugal"
+            "what_you_will_find": "While tourists queue for hours at Ramiro, locals slip into this <b>unmarked seafood tavern</b> two streets away for the same quality percebes and tiger prawns at half the price. The fluorescent lighting and plastic tablecloths hide some of the freshest seafood in the Intendente neighborhood.",
+            "the_vibe": "Rough around the edges but <b>authentically Lisboeta</b>, with fishermen's stories echoing between clinking beer bottles.",
+            "pro_tip": "Order the ameijoas à Bulhão Pato and ask for extra bread to soak up the garlic-wine sauce—it's not on the menu but they'll always bring it.",
+            "location": "Rua João do Outeiro 12, 1100-291 Lisboa, Portugal"
         },
         {
             "id": 3,
-            "title": "The Fisherman's Chapel",
-            "subtitle": "Capela de Santo André",
+            "title": "Palácio Chiado's Forgotten Library",
+            "subtitle": "Biblioteca Secreta",
             "tags": [
-                "Sacred Site",
-                "Local Ritual",
-                "Off the Map",
-                "Coastal Charm"
+                "Historic",
+                "Architecture",
+                "Quiet Corner",
+                "Free Entry"
             ],
-            "what_you_will_find": "This tiny <b>whitewashed chapel</b> in the fishing district of Alfama holds a centuries-old tradition where local fishermen still light candles before heading out to sea. Inside, faded maritime paintings and ex-votos tell stories of survival and gratitude that span generations.",
-            "the_vibe": "Deeply spiritual and humble, filled with the salt-air scent of the nearby docks and a sense of <b>lived tradition</b> rather than tourist performance.",
-            "pro_tip": "Visit early morning around 6 AM to catch fishermen performing their pre-dawn ritual before heading to the boats—a moment rarely witnessed by outsiders.",
-            "location": "Rua de São Miguel, 1100-542 Lisboa, Portugal"
+            "what_you_will_find": "Behind the popular food hall entrance lies a <b>forgotten reading room</b> from the palace's 19th-century origins, complete with original frescoed ceilings and leather armchairs that few visitors ever notice while grabbing their pastéis de nata downstairs.",
+            "the_vibe": "An <b>elegant time capsule</b> of aristocratic Lisbon, silent except for the occasional page turning.",
+            "pro_tip": "Ask the staff at the ground floor bar for 'a sala de leitura'—many don't advertise it, but it's open to anyone who asks politely.",
+            "location": "Rua do Alecrim 70, 1200-018 Lisboa, Portugal"
         },
         {
             "id": 4,
-            "title": "The Underground Roman Galleries",
-            "subtitle": "Galerias Romanas da Rua da Prata",
+            "title": "Chapel of Bones' Lesser Cousin",
+            "subtitle": "Capela de São João Baptista",
             "tags": [
-                "Ancient Ruins",
-                "Hidden Underground",
-                "Limited Access",
-                "History Buff"
+                "Off Beaten Path",
+                "History",
+                "Unique Architecture",
+                "Free Entry"
             ],
-            "what_you_will_find": "Beneath the bustling Baixa district lies a <b>flooded Roman crypto-portico</b> dating back to the 1st century, only accessible a few days per year when the water table drops low enough. These galleries once supported ancient Roman structures now buried under modern Lisbon.",
-            "the_vibe": "Eerie and exclusive, this feels like discovering a <b>secret beneath the secret</b>, with echoing footsteps and dripping water enhancing the ancient atmosphere.",
-            "pro_tip": "Access is only granted during specific open days announced by Museu de Lisboa—follow their social media closely, as tickets vanish within hours.",
-            "location": "Rua da Prata 10, 1100-052 Lisboa, Portugal"
+            "what_you_will_find": "This <b>unassuming chapel</b> in Alfama predates many famous Lisbon monuments, featuring original azulejo tiles from the 1600s that survived the Great Earthquake. Local families still hold small ceremonies here, making it a living piece of history rather than a museum piece.",
+            "the_vibe": "<b>Reverent and intimate</b>, with candlelight flickering against centuries-old blue and white tiles.",
+            "pro_tip": "The caretaker often unlocks the side door around 10am for morning light photography—knock gently and greet him in Portuguese for the best chance of entry.",
+            "location": "Largo de São João Baptista, 1100-503 Lisboa, Portugal"
         },
         {
             "id": 5,
-            "title": "The Poet's Bookshop Cellar",
-            "subtitle": "Livraria Sá da Costa Cave",
+            "title": "Cool Jazz Cellar",
+            "subtitle": "Speakeasy do Bairro",
             "tags": [
-                "Literary Haven",
-                "Vintage Finds",
-                "Cozy Corner",
-                "Independent Store"
+                "Live Music",
+                "Speakeasy",
+                "Nightlife",
+                "Local Crowd"
             ],
-            "what_you_will_find": "Descend into the basement of this century-old bookstore to find a <b>labyrinth of rare Portuguese first editions</b>, forgotten poetry chapbooks, and handwritten letters tucked between pages by previous owners. The scent of aged paper permeates every corner.",
-            "the_vibe": "Intimate and slightly mysterious, this cellar attracts <b>literary wanderers</b> who linger for hours without ever feeling rushed by staff.",
-            "pro_tip": "The owner keeps a special locked cabinet of Fernando Pessoa rarities—politely ask to see it, as it's never advertised or displayed publicly.",
-            "location": "Rua Garrett 100, 1200-273 Lisboa, Portugal"
+            "what_you_will_find": "Behind an unmarked wooden door in Bairro Alto, this <b>underground jazz cellar</b> hosts intimate sessions with Lisbon's best improvisational musicians most tourists have never heard of. The stone walls date back to Moorish times, creating natural acoustics that professional venues spend fortunes trying to replicate.",
+            "the_vibe": "<b>Smoky and soulful</b>, where saxophone notes bounce off centuries-old stone in near darkness.",
+            "pro_tip": "There's no sign—look for the small brass doorknob shaped like a treble clef and knock twice; shows usually start unannounced around 11pm.",
+            "location": "Travessa da Queimada 8, 1200-364 Lisboa, Portugal"
         },
         {
             "id": 6,
-            "title": "The Silent Miradouro",
-            "subtitle": "Miradouro da Rua Marechal Saldanha",
+            "title": "Feira da Ladra's Hidden Corner",
+            "subtitle": "O Canto dos Antiquários",
             "tags": [
-                "Quiet Viewpoint",
-                "Local Secret",
-                "Photography Spot",
-                "Sunset Spot"
+                "Antiques",
+                "Flea Market",
+                "Local Treasures",
+                "Weekend Only"
             ],
-            "what_you_will_find": "While tourists flock to famous viewpoints, this narrow ledge near São Bento offers an equally stunning vista of the river and 25 de Abril Bridge, but with <b>almost zero crowds</b>. A single bench and overgrown bougainvillea frame the view perfectly.",
-            "the_vibe": "Peaceful solitude reigns here, making it feel like your own <b>private balcony</b> over the city, ideal for reflection or quiet conversation.",
-            "pro_tip": "Come at blue hour rather than sunset—the lights of the bridge and ships create a magical reflection that's far less crowded than golden hour spots.",
-            "location": "Rua Marechal Saldanha, 1200-243 Lisboa, Portugal"
+            "what_you_will_find": "While everyone browses the main flea market stalls, a <b>secret alcove</b> behind the church sells genuine 19th-century Portuguese ceramics and vintage azulejos that dealers from Porto specifically travel here to find. Family-run stalls have operated in this same spot for three generations.",
+            "the_vibe": "<b>Nostalgic and treasure-filled</b>, smelling of old paper and polished brass.",
+            "pro_tip": "Arrive before 8am on Tuesday (not Saturday) when local dealers unload their best finds before the weekend tourist rush begins.",
+            "location": "Campo de Santa Clara, 1100-471 Lisboa, Portugal"
         },
         {
             "id": 7,
-            "title": "The Ginjinha Speakeasy",
-            "subtitle": "Ginjinha Sem Rival Annex",
+            "title": "Miradouro da Graça's Quiet Twin",
+            "subtitle": "Jardim do Torel de Cima",
             "tags": [
-                "Local Drink",
-                "Hole in the Wall",
-                "Authentic Bar",
-                "Night Out"
+                "Hidden Viewpoint",
+                "Sunset Spot",
+                "Local Hangout",
+                "Free Entry"
             ],
-            "what_you_will_find": "Behind an unmarked door adjacent to the famous ginjinha stand lies a <b>tiny standing-only annex</b> where locals sip cherry liqueur from small glass cups alongside chocolate-covered cherries. It's barely big enough for ten people but full of character.",
-            "the_vibe": "Boisterous yet cozy, filled with the chatter of regulars who've been coming for decades, creating a <b>genuine neighborhood bar</b> feeling.",
-            "pro_tip": "Order 'com elá' to get the ginjinha with the cherry included in your cup—it's the traditional way locals drink it, though tourists rarely know to ask.",
-            "location": "Rua das Portas de Santo Antão 7, 1150-264 Lisboa, Portugal"
+            "what_you_will_find": "Just steps from the famous Miradouro da Graça, this <b>overlooked terrace</b> offers nearly identical panoramic views of the castle and river without a single tour bus in sight. A small unmarked kiosk sells the neighborhood's best ginjinha at prices from a decade ago.",
+            "the_vibe": "<b>Unhurried and neighborly</b>, where elderly residents play cards while watching the sun set over the Tagus.",
+            "pro_tip": "Take the small staircase behind the main viewpoint marked only with faded blue tiles—the view rivals the popular spot but with a fraction of the crowd.",
+            "location": "Calçada da Graça, 1170-165 Lisboa, Portugal"
         },
         {
             "id": 8,
-            "title": "The Abandoned Elevator Garden",
-            "subtitle": "Elevador do Lavra Rooftop Access",
+            "title": "Time Out Market's Forgotten Predecessor",
+            "subtitle": "Mercado de Arroios",
             "tags": [
-                "Urban Exploration",
-                "Hidden View",
-                "Free Entry",
-                "Off the Map"
+                "Local Market",
+                "Authentic Food",
+                "No Tourists",
+                "Morning Only"
             ],
-            "what_you_will_find": "Take Lisbon's oldest funicular to its upper station, then follow a small unmarked path to a <b>neglected rooftop garden</b> overlooking the Avenida da Liberdade. Wild plants have reclaimed old tiled benches, creating an accidental urban wilderness.",
-            "the_vibe": "Slightly wild and forgotten, this spot has a <b>post-apocalyptic charm</b> mixed with stunning views, appealing to urban explorers and photographers.",
-            "pro_tip": "The gate is technically closed but never locked—push gently and it opens; be respectful and quiet as it's frequented by a few elderly locals who consider it their secret.",
-            "location": "Largo da Anunciada, 1150-021 Lisboa, Portugal"
+            "what_you_will_find": "While tourists flock to the trendy food hall, this <b>traditional neighborhood market</b> in Arroios still sells the fish, produce, and homemade specialties that fed Lisbon families for generations. Elderly vendors remember customers' names and orders without writing anything down.",
+            "the_vibe": "<b>Genuinely local and unpolished</b>, filled with the calls of vendors and the smell of fresh bacalhau.",
+            "pro_tip": "Visit the small counter at the back run by Dona Fernanda—her homemade pastéis de bacalhau aren't for sale elsewhere and sell out by 11am.",
+            "location": "Rua de Arroios 70, 1150-051 Lisboa, Portugal"
         },
         {
             "id": 9,
-            "title": "The Fado House Basement",
-            "subtitle": "Casa de Fado dos Ferreiras",
+            "title": "Jardim Botânico's Secret Greenhouse",
+            "subtitle": "A Estufa Esquecida",
             "tags": [
-                "Live Music",
-                "Authentic Fado",
-                "No Tourist Trap",
-                "Evening Experience"
+                "Nature Escape",
+                "Botanical",
+                "Peaceful",
+                "Photography"
             ],
-            "what_you_will_find": "This unmarked basement in Mouraria hosts <b>impromptu fado sessions</b> where local singers, sometimes taxi drivers or shop owners by day, perform raw, unrehearsed fado for whoever happens to be there. No stage, no menu—just plastic chairs and pure emotion.",
-            "the_vibe": "Raw and unpolished, this is fado in its <b>most authentic form</b>, far from the tourist dinner shows, filled with genuine melancholy and passion.",
-            "pro_tip": "There's no set schedule—ask at the corner café 'Pastelaria Flor da Mouraria' what night 'a casa dos Ferreiras' is opening; locals always know.",
-            "location": "Rua dos Cavaleiros 34, 1100-129 Lisboa, Portugal"
+            "what_you_will_find": "Beyond the main botanical garden paths lies an <b>abandoned Victorian greenhouse</b> filled with overgrown tropical plants that the city forgot to maintain, creating an accidentally beautiful urban jungle. Rusted iron frames and cracked glass panels let dappled sunlight filter through exotic foliage.",
+            "the_vibe": "<b>Wild and romantically decayed</b>, like discovering nature reclaiming forgotten human ambition.",
+            "pro_tip": "Follow the path past the main cactus garden and look for a gap in the hedge—technically off-limits but rarely enforced during daylight hours.",
+            "location": "Rua da Escola Politécnica 58, 1250-102 Lisboa, Portugal"
         },
         {
             "id": 10,
-            "title": "The Botanical Greenhouse Ruins",
-            "subtitle": "Estufa Fria's Forgotten Wing",
+            "title": "Ginjinha Sem Rival's Older Rival",
+            "subtitle": "A Ginjinha do Rossio Antigo",
             "tags": [
-                "Secret Garden",
-                "Botanical Wonder",
-                "Photography Spot",
-                "Quiet Escape"
+                "Local Drink",
+                "Historic Bar",
+                "Standing Only",
+                "Cash Only"
             ],
-            "what_you_will_find": "Beyond the popular main greenhouse lies an <b>abandoned secondary wing</b> filled with overgrown tropical plants pushing through broken glass panels. Sunlight filters through in dramatic shafts, creating an otherworldly, jungle-like atmosphere within the city.",
-            "the_vibe": "Mysterious and slightly overgrown, this feels like discovering a <b>secret jungle</b> hidden in plain sight, perfect for those seeking silence and greenery.",
-            "pro_tip": "Ask the gardener near the entrance about 'a estufa velha'—he sometimes allows respectful visitors through the side gate that's usually roped off.",
-            "location": "Parque Eduardo VII, 1070-051 Lisboa, Portugal"
+            "what_you_will_find": "One street over from the famous ginjinha shop, this <b>tiny standing bar</b> has served the same cherry liqueur recipe since 1890, using a family formula that predates its more famous competitor. Regular customers know to ask for it 'com elas'—with the cherries included.",
+            "the_vibe": "<b>Unpretentious and timeless</b>, where three generations of the same family still serve drinks exactly as their grandfather did.",
+            "pro_tip": "Order 'uma com' from the elderly gentleman usually working mornings—his pour is noticeably more generous than the afternoon staff.",
+            "location": "Rua das Portas de Santo Antão 5, 1150-264 Lisboa, Portugal"
         }
     ]
 }
