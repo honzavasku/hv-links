@@ -9,21 +9,22 @@
         <style>
             * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Outfit', sans-serif; }
             body { background-color: #0F1016; color: #ffffff; min-height: 100vh; display: flex; flex-direction: column; align-items: center; padding: 50px 20px; }
-            .profile-container { text-align: center; margin-bottom: 40px; }
-            .logo { width: 120px; margin-bottom: 20px; }
-            .bio { color: #cccccc; font-size: 16px; max-width: 400px; margin: 0 auto; line-height: 1.5; }
-            .links-container { width: 100%; max-width: 500px; display: flex; flex-direction: column; gap: 20px; }
+            .profile-container { text-align: center; margin-bottom: 50px; }
+            .logo { width: 140px; margin-bottom: 25px; }
+            .bio { color: #cccccc; font-size: 18px; max-width: 400px; margin: 0 auto; line-height: 1.5; }
+            .links-container { width: 100%; max-width: 500px; display: flex; flex-direction: column; gap: 25px; }
             
             .link-card {
                 background: rgba(255, 255, 255, 0.03);
                 border: 1px solid rgba(134, 186, 255, 0.1);
                 border-radius: 20px;
-                padding: 15px;
+                padding: 20px;
                 display: flex;
                 align-items: center;
                 text-decoration: none;
                 color: white;
                 transition: all 0.3s ease;
+                overflow: hidden;
             }
             .link-card:hover {
                 border-color: #86baff;
@@ -31,16 +32,16 @@
                 transform: translateY(-3px);
             }
             .mockup-img {
-                width: 70px;
+                width: 180px; 
                 height: auto;
-                margin-right: 20px;
-                filter: drop-shadow(0 5px 10px rgba(0,0,0,0.5));
+                margin: -40px 10px -40px -20px; 
+                filter: drop-shadow(0 5px 15px rgba(0,0,0,0.6));
             }
-            .card-text h3 { font-size: 22px; font-weight: 800; letter-spacing: 1px; margin-bottom: 5px; }
-            .card-text p { font-size: 14px; color: #86baff; font-weight: 600; }
+            .card-text h3 { font-size: 26px; font-weight: 800; letter-spacing: 1px; margin-bottom: 5px; }
+            .card-text p { font-size: 16px; color: #86baff; font-weight: 600; }
             
-            .socials { margin-top: 50px; display: flex; gap: 20px; }
-            .socials a { color: #fff; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 1px solid transparent; }
+            .socials { margin-top: 60px; display: flex; gap: 25px; }
+            .socials a { color: #fff; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 1px solid transparent; letter-spacing: 1px; }
             .socials a:hover { border-bottom: 1px solid #86baff; color: #86baff; }
         </style>
     </head>
@@ -52,19 +53,11 @@
         
         <div class="links-container">
             
-                <a href="https://hvvisuals.gumroad.com/l/rome" target="_blank" style="text-decoration: none; color: inherit;">
-                    <img src="assets/Rome_3D_Mockup.png" alt="ROME Guide" class="mockup-img">
-                    <div class="card-text">
-                        <h3>ROME</h3>
-                        <p>Get the Digital Guide ➔</p>
-                    </div>
-                </a>
-                
         </div>
         
         <div class="socials">
-            <a href="https://www.instagram.com/hv_visuals_" target="_blank">INSTAGRAM</a>
-            <a href="https://www.tiktok.com/@hv_visuals_" target="_blank">TIKTOK</a>
+            <a href="https://instagram.com/hv_visuals_" target="_blank">INSTAGRAM</a>
+            <a href="https://tiktok.com/@hv_visuals_" target="_blank">TIKTOK</a>
         </div>
     </body>
     </html>

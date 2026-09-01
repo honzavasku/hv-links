@@ -1,13 +1,13 @@
 --- LOKACE K VYHLEDÁNÍ: LINKBIO_DEPLOY ---
-🎨 BRAND BARVY (Použij na obálku a UI): Hlavní #2C3E50, Akcent #D4AC0D
+🎨 BRAND BARVY (Použij na obálku a UI): Hlavní #2C5F7C, Akcent #D4A574
 
-1. The Hidden Convent Garden (Jardim do Convento do Carmo)
-2. The Fisherman's Chapel (Capela de Santo Amaro)
-3. The Ginjinha Alley of Alfama (Beco do Cardosa)
-4. The Overlooked Roman Theater (Museu do Teatro Romano)
-5. The Printer's Courtyard Café (Pátio da Tipografia)
-6. The Forgotten Miradouro (Miradouro das Portas do Sol Secreto)
-7. The Tile Restoration Workshop (Ateliê de Recuperação de Azulejos)
-8. The Speakeasy Behind the Barbershop (O Bar Escondido)
-9. The Riverside Ferry Cantina (Cantina do Cacilheiro)
-10. The Astronomer's Rooftop (Observatório Astronómico de Lisboa)
+1. The Hanging Convent Garden (Jardim do Convento das Mercês)
+2. The Ceramic Tile Archive (Fábrica Sant'Anna Showroom)
+3. The Fisherman's Chapel (Capela de Santo André)
+4. The Underground Roman Galleries (Galerias Romanas da Rua da Prata)
+5. The Poet's Bookshop Cellar (Livraria Sá da Costa Cave)
+6. The Silent Miradouro (Miradouro da Rua Marechal Saldanha)
+7. The Ginjinha Speakeasy (Ginjinha Sem Rival Annex)
+8. The Abandoned Elevator Garden (Elevador do Lavra Rooftop Access)
+9. The Fado House Basement (Casa de Fado dos Ferreiras)
+10. The Botanical Greenhouse Ruins (Estufa Fria's Forgotten Wing)
